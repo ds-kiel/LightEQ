@@ -1,0 +1,10 @@
+tensorflow-gpu==2.8.0
+Keras
+matplotlib
+scipy
+pandas
+tqdm
+Obspy==1.3
+H5py
+numba
+tensorflow==2.8.0

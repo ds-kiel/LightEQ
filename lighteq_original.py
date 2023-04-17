@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 25 17:44:14 2018
-  
-@author: mostafamousavi
+Code base is created by: mostafamousavi
+modified for LightEQ by: TayyabaZainab0807
 """ 
   
 from __future__ import print_function 

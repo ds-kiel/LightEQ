@@ -1,10 +1,8 @@
- #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sat Jan 18 23:15:52 2020
+Code base is created by: mostafamousavi
+modified for LightEQ by: TayyabaZainab0807
+""" 
 
-@author: mostafamousavi
-"""
 from __future__ import print_function
 import tensorflow as tk
 import tensorflow.keras

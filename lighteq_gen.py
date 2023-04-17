@@ -1,3 +1,8 @@
+"""
+Code base is created by: mostafamousavi
+modified for LightEQ by: TayyabaZainab0807
+""" 
+
 import tensorflow as tf
 import numpy as np
 from scipy import signal

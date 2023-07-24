@@ -28,7 +28,7 @@ np.seterr(divide='ignore', invalid='ignore')
 from lighteq_utils import DataGenerator_test ,data_generation , DataGenerator, model_lighteq_model0,model_lighteq_model1,model_lighteq_model2, lr_schedule, generate_arrays_from_file, detector, output_writter_test, plotter
 import argparse
 from tqdm import tqdm
-from data_gen import gen,gen_input,gen_output
+from lighteq_gen import gen
 import math
 import random
 import sys

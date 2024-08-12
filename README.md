@@ -7,7 +7,7 @@ Location to my dataset is in folder /home/tza/STEAD -> to reproduce the code, yo
 
 
 This code is divided into 5 sections
---mode=split -> it will just divide the dataset
+--mode=splitdata -> it will just divide the dataset
 
 ``` python lighteq_original.py --mode=split```
 
